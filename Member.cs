@@ -1,10 +1,15 @@
-class Member
+class Member : Item
 {
     public string Name { get; }
-    public string MemberId { get; }
-    public Member(string name, string memberId)
+
+    public Member(string name, string memberId) : base(memberId, "Member")
     {
         Name = name;
-        MemberId = memberId;
+    }
+
+    public override void DisplayDetails()
+    {
+        base.DisplayDetails();
+        Console.WriteLine($"Name: {Name}");
     }
 }

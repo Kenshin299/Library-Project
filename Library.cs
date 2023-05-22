@@ -17,29 +17,30 @@ class Library
     }
     public void BorrowBook(Book book, Member member)
     {
-        if (book.IsBorrowed)
+        if (!book.IsAvailable)
         {
-            Console.WriteLine($"{book.Title} ya se prestó.");
+            Console.WriteLine($"{book.ItemName} ya se prestó.");
         }
         else
         {
-            book.IsBorrowed = true;
-            Console.WriteLine($"{member.Name} tomó prestado {book.Title}.");
-        }
+            book.IsAvailable = false;
+            Console.WriteLine($"{member.Name} tomó prestado {book.ItemName}.");
+    }
+
     }
     public void ReturnBook(Book book)
     {
-        book.IsBorrowed = false;
-        Console.WriteLine($"{book.Title} fue devuelto.");
+        book.IsAvailable = true;
+        Console.WriteLine($"{book.ItemName} fue devuelto.");
     }
     public void DisplayBorrowedBooks()
     {
         foreach (Book book in books)
         {
-            if (book.IsBorrowed)
+        if (!book.IsAvailable)
             {
-                Console.WriteLine($"Titulo: {book.Title}, Autor: {book.Author}");
+                Console.WriteLine($"Titulo: {book.ItemName}, Autor: {book.Author}");
             }
         }
-    }
+    }   
 }

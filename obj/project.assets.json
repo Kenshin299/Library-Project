@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kemyl\\Desktop\\Kemyl\\Progamacion II\\Progamacion II.csproj",
+      "projectUniqueName": "C:\\Users\\kemyl\\Desktop\\Kemyl\\Libreria PR II\\Progamacion II.csproj",
       "projectName": "Progamacion II",
-      "projectPath": "C:\\Users\\kemyl\\Desktop\\Kemyl\\Progamacion II\\Progamacion II.csproj",
+      "projectPath": "C:\\Users\\kemyl\\Desktop\\Kemyl\\Libreria PR II\\Progamacion II.csproj",
       "packagesPath": "C:\\Users\\kemyl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kemyl\\Desktop\\Kemyl\\Progamacion II\\obj\\",
+      "outputPath": "C:\\Users\\kemyl\\Desktop\\Kemyl\\Libreria PR II\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

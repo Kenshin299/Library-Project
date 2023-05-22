@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
         Library library = new Library();
-        
+
         // Agregando libros a la libreria
         Book book1 = new Book("001", "The Great Gatsby", "F. Scott Fitzgerald");
         Book book2 = new Book("002", "Mistborn", "Brando Sanderson");

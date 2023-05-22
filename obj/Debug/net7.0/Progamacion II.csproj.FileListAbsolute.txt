@@ -13,3 +13,18 @@ C:\Users\kemyl\Desktop\Kemyl\Progamacion II\obj\Debug\net7.0\refint\Progamacion 
 C:\Users\kemyl\Desktop\Kemyl\Progamacion II\obj\Debug\net7.0\Progamacion II.pdb
 C:\Users\kemyl\Desktop\Kemyl\Progamacion II\obj\Debug\net7.0\Progamacion II.genruntimeconfig.cache
 C:\Users\kemyl\Desktop\Kemyl\Progamacion II\obj\Debug\net7.0\ref\Progamacion II.dll
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\bin\Debug\net7.0\Progamacion II.exe
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\bin\Debug\net7.0\Progamacion II.deps.json
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\bin\Debug\net7.0\Progamacion II.runtimeconfig.json
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\bin\Debug\net7.0\Progamacion II.dll
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\bin\Debug\net7.0\Progamacion II.pdb
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\Progamacion II.csproj.AssemblyReference.cache
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\Progamacion II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\Progamacion II.AssemblyInfoInputs.cache
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\Progamacion II.AssemblyInfo.cs
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\Progamacion II.csproj.CoreCompileInputs.cache
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\Progamacion II.dll
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\refint\Progamacion II.dll
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\Progamacion II.pdb
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\Progamacion II.genruntimeconfig.cache
+C:\Users\kemyl\Desktop\Kemyl\Libreria PR II\obj\Debug\net7.0\ref\Progamacion II.dll

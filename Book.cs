@@ -1,14 +1,15 @@
-class Book
+class Book : Item
 {
-    public string Id { get; }
-    public string Title { get; }
     public string Author { get; }
-    public bool IsBorrowed { get; set; }
-    public Book(string id, string title, string author)
+
+    public Book(string id, string title, string author) : base(id, title)
     {
-        Id = id;
-        Title = title;
         Author = author;
-        IsBorrowed = false;
+    }
+
+    public override void DisplayDetails()
+    {
+        base.DisplayDetails();
+        Console.WriteLine($"Author: {Author}");
     }
 }
